@@ -1,5 +1,4 @@
 🎓 Education Assistant Chatbot
-![React](https://img.shields.io/badge/React-18-blue?logo=reacthttps://img.shields.io/badge/TypeScript-4.9-blue?logohttps://img.shields.io/badge/Open_Source-Yes-brightgreenhttps://img.shields.io/badge
 
 Empowering students and educators with instant knowledge through conversational AI.
 
