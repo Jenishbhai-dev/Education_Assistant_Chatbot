@@ -309,15 +309,6 @@ Please ensure your code follows the existing style and includes appropriate test
 - [ ] **Mobile applications** (iOS & Android)
 - [ ] **Expanded topic coverage** (Data Science, Web Development)
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License - You are free to use, modify, and distribute this software.
-```
 
 ---
 
